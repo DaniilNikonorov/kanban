@@ -1,0 +1,46 @@
+{
+  "dark_mode": true,
+  "git_user_info": {
+    "username": "",
+    "repository_token": "",
+    "gist_id": ""
+  },
+  "projects_id": 1,
+  "projects": [
+    {
+      "id": 0,
+      "title": "Простой проект",
+      "description": "<p>Привет, Мир! !</p>",
+      "categories": [
+        {
+          "tag": "todo",
+          "title": "Сделать",
+          "folded": false
+        },
+        {
+          "tag": "in_progress",
+          "title": "В прогрессе",
+          "folded": false
+        },
+        {
+          "tag": "done",
+          "title": "Сделано",
+          "folded": false
+        }
+      ],
+      "opened_milestone_id": 0,
+      "customPath": "",
+      "timestamp": 1578644738035
+    }
+  ],
+  "current_project_id": 0,
+  "window_width": 1325,
+  "window_height": 777,
+  "application_color": "grey black--text",
+  "first_time_use": false,
+  "default_databases_folder": "",
+  "isMac": false,
+  "display_tasks": true,
+  "lang": "en",
+  "darken_toolbar": true
+}

@@ -1,0 +1,67 @@
+{
+  "info": {
+    "id": 0,
+    "title": "Простой проект",
+    "description": "<p>Привет, Мир! !</p>",
+    "categories": [
+      {
+        "tag": "todo",
+        "title": "Сделать",
+        "folded": false
+      },
+      {
+        "tag": "in_progress",
+        "title": "В прогрессе",
+        "folded": false
+      },
+      {
+        "tag": "done",
+        "title": "Сделано",
+        "folded": false
+      }
+    ],
+    "opened_milestone_id": 0,
+    "customPath": "",
+    "timestamp": 1578644737666
+  },
+  "milestones": [
+    {
+      "id": 0,
+      "title": "По умолчанию",
+      "timestamp": 1535761480119
+    },
+    {
+      "id": 1,
+      "title": "vdfdf",
+      "timestamp": 1578644733469
+    }
+  ],
+  "milestones_id": 2,
+  "notes": [
+    {
+      "id": 0,
+      "project_id": 0,
+      "title": "Тест",
+      "description": "<p>Привет, Мир !</p>",
+      "category": "todo",
+      "color": "blue white--text",
+      "milestone_id": 0,
+      "tags": [
+        {
+          "tag": "Тест",
+          "color": "green white--text"
+        }
+      ],
+      "order": 0,
+      "timestamp": 1578644841658,
+      "updated_timestamp": 1578644841658
+    }
+  ],
+  "tags": [
+    {
+      "tag": "Тест",
+      "color": "green white--text"
+    }
+  ],
+  "notes_id": 1
+}
